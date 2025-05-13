@@ -1,0 +1,41 @@
+Data Types
+
+    (i)Primitive  Type
+    (ii)Special  Type
+    (iii)Complex Type
+    (iv)Union and Intersaction Type
+    (v)Type Aliases and Interface
+    (vi)Literal Type
+    (vii)Function Type
+
+=>(i)Primitive  Type
+    string
+    number 
+    boolean
+    null
+    undefined
+    symbol
+
+=>(ii)Special  Type
+    any
+    unknown
+    void
+    never
+
+=>(iii)Complex Type
+    array 
+    tuple
+    object
+    enum
+
+=>(iv)Union and Intersaction Type
+    Union
+    Intersaction
+
+=>(v)Type Aliases and Interface
+    Type
+    Interface
+
+=>(vi)Literal Type ( | )
+
+=>(vii)Function Type

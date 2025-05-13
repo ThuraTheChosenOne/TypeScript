@@ -1,0 +1,61 @@
+=>Typescript
+
+Typescript is a programming language developed by MIcrosoft
+we can gain advatage
+    (i)Type Safety (statically typed features)
+    (ii)Error Detection
+
+(i)Early Error Detection
+    Typescipt catches errors at compile time.This help prevent runtime errors and make your code reliable
+
+(ii)Improved Readablity & Maintainability
+    Easier to read and understand.Other developer can quickly understand as well.
+
+Javascript small-scale applications
+Typescript medium-large applications
+
+Typescript can use for client-side as Reqactjs & Angularjs.....
+Typescript can use for server-side with node js
+
+Typescipt Vs Javascript
+
+=>Typescipt
+
+(i)Static programming Language
+(ii)Compiled (Typescipt Compiler = tsc //Typescipt code cannt be run on browser since its compile)
+(iii)Compilation Errors
+
+=>Javascript
+(i)Dynamic programming Language
+(ii)Interpreted
+(iii)Runtime Errors
+
+=>Syntax
+
+Javascript
+let score=50;
+
+Typescipt
+let score:number = 50;
+
+Official website
+typescriptlang.org
+--------------------------------------------------------
+Install Typescript Globally
+
+node -v v23.1.0
+npm -v 10.9.0
+
+
+=>Install(Linux,MAC,Windows)
+ npm install -g typescript
+
+ tsc -v  or tsc --version (Version )Version 5.7.3
+
+
+-----------------------------------------------------------
+Install Typescipt Locally
+
+npm init -y
+npm install typescript --save-dev
+tsc -v or tsc --version or npx tsc --version(Node Package Execute)

@@ -1,0 +1,11 @@
+=>Typescript Init
+tsc --init
+
+uncomment 
+"rootDir": "./src",       
+"outDir": "./dist",  
+"removeComments": true, 
+"noEmitOnError": true,    compile time error ko tan pya js hti a thal ma khan
+
+=>BUILD
+tsc -w(this will output js file to dist)
